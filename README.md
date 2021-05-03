@@ -7,7 +7,7 @@ Personal website consisting of a blog page, photo gallery and an "about" section
 * Vanilla CSS without any frameworks. 
 * Page transitions made with Swup.
 * Website is fully accessible, with fast load times and excellent SEO.
-* Website is a technical skill showcase. Blog posts made not be sincere.
+* Website is a technical skill showcase. Blog posts may not be sincere.
 
 # Attribution: 
 
