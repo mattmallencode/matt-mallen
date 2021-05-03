@@ -1,13 +1,16 @@
 # MATT/MALLEN
 Personal website consisting of a blog page, photo gallery and an "about" section. 
 
+# About this project:
+
 * Valid HTML5.
 * Vanilla CSS without any frameworks. 
 * Page transitions made with Swup.
 * Website is fully accessible, with fast load times and excellent SEO.
 * Website is a technical skill showcase. Blog posts made not be sincere.
 
-Attribution: 
+# Attribution: 
+
 1. Sources made use of in the blog page have been referenced with hyperlinks or in an attribution section.
 2. I made use of one piece of CSS I found online to fix issues with Safari mobile. Links included with code.
 3. Colour gradients were made using an automated tool called CSS Gradient. Available from: https://cssgradient.io/
